@@ -12,7 +12,7 @@
     "Postmeapp",
     "UTSH"
   ],
-  "author": "Bryan Martinez",
+  "author": "Valentin Hernández",
   "license": "ISC",
   "description": "Mi primera PWA desde cero",
   "devDependencies": {
